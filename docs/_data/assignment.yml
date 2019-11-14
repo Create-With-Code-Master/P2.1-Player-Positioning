@@ -7,7 +7,7 @@ get-prev-branch:
 lesson: 
 # If not empty, display the text at the top of the page (or wherever the template does the include of outcome.html)
 # below the tabs
-outcome:
+outcome: Your character will move left and right on the screen based on the user’s left and right key presses, but it will not be able to leave the play area on either side.
 # Link to lesson slides, displayed on Resources tab if not empty.
 slides:
 # Name and URL of repository holding the starter code for this assignment.
