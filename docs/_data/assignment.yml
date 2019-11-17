@@ -9,7 +9,7 @@ lesson: https://learn.unity.com/tutorial/lesson-2-1-control-player-bounds-with-i
 # below the tabs
 outcome: Your character will move left and right on the screen based on the user’s left and right key presses, but it will not be able to leave the play area on either side.
 # Link to lesson slides, displayed on Resources tab if not empty.
-slides:
+slides: https://docs.google.com/presentation/d/1DpnjpZn-y7eb_IlQ1mBs7udO6pTx0cqnLZW5PLBuogs/edit?usp=sharing
 # Name and URL of repository holding the starter code for this assignment.
 starter-code-org: 
 starter-code-repo: 
