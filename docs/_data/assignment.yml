@@ -2,7 +2,7 @@
 #
 # Git stuff
 git-curr-branch: lesson-1
-get-prev-branch:
+git-prev-branch:
 # Link to an external lesson (e.g., a lesson on Code.org or TestOut).
 lesson: https://learn.unity.com/tutorial/lesson-2-1-control-player-bounds-with-if-then-statements
 # If not empty, display the text at the top of the page (or wherever the template does the include of outcome.html)
